@@ -1,0 +1,14 @@
+{
+	"name": "cf-pickup-code",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "wrangler dev",
+		"deploy": "wrangler deploy"
+	},
+	"devDependencies": {
+		"@types/node": "^25.3.5",
+		"typescript": "^5.5.2",
+		"wrangler": "^4.71.0"
+	}
+}
